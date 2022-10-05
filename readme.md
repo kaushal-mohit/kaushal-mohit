@@ -2,7 +2,7 @@
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaushal-mohit&label=Profile%20views&color=0e75b6&style=flat" alt="kaushal-mohit" /> </p>
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaushal-mohit)](https://github.com/anuraghazra/github-readme-stats)
 - 🔭 I’m currently working on **Some Web development projects**
 
 - 🌱 I’m currently learning **MERN Stack & Data Structures**
