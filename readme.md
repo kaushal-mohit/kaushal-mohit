@@ -33,12 +33,12 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=kaushal-mohit&show_icons=true&theme=dark&locale=en" alt="jigar-sable" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaushal-mohit&show_icons=true&theme=dark&locale=en&layout=compact" alt="jigar-sable" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=kaushal-mohit&show_icons=true&theme=highcontrast&locale=en" alt="jigar-sable" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaushal-mohit&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="jigar-sable" /></td>
   </tr>
 </table>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaushal-mohit&theme=dark" alt="jigar-sable" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaushal-mohit&theme=highcontrast" alt="jigar-sable" /></p>
   </div>
 
