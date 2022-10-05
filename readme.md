@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN Stack & Data Structures**
 
-- 🤝 I’m looking to collaborate on ** Open Source Projects**
+- 🤝 I’m looking to collaborate on **Open Source Projects**
 
 - 👨‍💻 Check out my personal portfolio : [soon....](soon....)
 
