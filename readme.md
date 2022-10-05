@@ -36,4 +36,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaushal-mohit&show_icons=true&theme=tokyonight&locale=en" alt="kaushal-mohit" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaushal-mohit&theme=highcontrast" alt="kaushal-mohit" /></p>
-[!(https://github-readme-stats.vercel.app/api?username=kaushal-mohit)](https://github.com/anuraghazra/github-readme-stats)
+https://github-readme-stats.vercel.app/api?username=kaushal-mohit
+https://github.com/anuraghazra/github-readme-stats
