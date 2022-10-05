@@ -40,5 +40,5 @@
 
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaushal-mohit&theme=highcontrast" alt="jigar-sable" /></p>
-  </div>
+ </div>
 
