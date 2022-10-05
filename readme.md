@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohit</h1>
-<h3 align="center">A passionate MERN Stack developer from India</h3>
+<h3 align="center">A passionate MERN Stack developer and Open Source Contributor:)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaushal-mohit&label=Profile%20views&color=0e75b6&style=flat" alt="kaushal-mohit" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN Stack & Data Structures**
 
-- 🤝 I’m looking to collaborate on **Web Development and Open Source Projects**
+- 🤝 I’m looking to collaborate on ** Open Source Projects**
 
 - 👨‍💻 Check out my personal portfolio : [soon....](soon....)
 
