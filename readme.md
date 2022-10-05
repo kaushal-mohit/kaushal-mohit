@@ -19,9 +19,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/temp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="temp" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kaushal-mohit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaushal-mohit" height="30" width="40" /></a>
 <a href="https://instagram.com/pvt.mohitkaushal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pvt.mohitkaushal" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/temp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="temp" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mohit_kaushal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mohit_kaushal" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/temp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="temp" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/temp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="temp" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
