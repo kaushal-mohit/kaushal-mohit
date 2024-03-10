@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking to collaborate on **Open Source Projects**
 
-- 👨‍💻 Check out my personal portfolio : [soon....](soon....)
+- 👨‍💻 Check out my personal portfolio : [Click here](https://kaushalmohit.netlify.app/)
 
 - 💬 Ask me about **HTML, CSS, Javascript, React, DBMS, Competitive Programming**
 
