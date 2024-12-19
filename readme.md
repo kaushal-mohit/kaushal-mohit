@@ -39,6 +39,7 @@
 </table>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaushal-mohit&theme=highcontrast" alt="jigar-sable" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaushal-mohit&theme=highcontrast" alt="jigar-sable" /></p> -->
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=kaushal-mohit&theme=neon" alt="GitHub Streak" /></a>
  </div>
 
